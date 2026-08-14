@@ -77,7 +77,7 @@ AI integration means connecting our application with an AI service through an AP
 
 Example:
 
-User:
+
 "Explain Binary Search."
 
 React → Backend → AI API → AI Response → React → User
